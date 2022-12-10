@@ -6,5 +6,5 @@
 ### Дисциплина "ТРПО"
 #### курс 1 , группа 2 , подгруппа 1 
 
-[<img src="../photos/Vera.png" width="100"/>](../photos/Vera.png)
+[<img src="Vera.png" width="100"/>](Vera.png)
 
